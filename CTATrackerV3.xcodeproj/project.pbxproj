@@ -15,6 +15,7 @@
 		53C8F95D26424E8D00A93860 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53C8F95B26424E8D00A93860 /* LaunchScreen.storyboard */; };
 		53C8F96826424E8D00A93860 /* CTATrackerV3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8F96726424E8D00A93860 /* CTATrackerV3Tests.swift */; };
 		53C8F97326424E8D00A93860 /* CTATrackerV3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8F97226424E8D00A93860 /* CTATrackerV3UITests.swift */; };
+		53C8F98426425F4500A93860 /* CTATableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8F98326425F4500A93860 /* CTATableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		53C8F96E26424E8D00A93860 /* CTATrackerV3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CTATrackerV3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		53C8F97226424E8D00A93860 /* CTATrackerV3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTATrackerV3UITests.swift; sourceTree = "<group>"; };
 		53C8F97426424E8D00A93860 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53C8F98326425F4500A93860 /* CTATableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTATableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				53C8F95226424E8C00A93860 /* SceneDelegate.swift */,
 				53C8F95426424E8C00A93860 /* ViewController.swift */,
 				53C8F95626424E8C00A93860 /* Main.storyboard */,
+				53C8F98326425F4500A93860 /* CTATableViewController.swift */,
 				53C8F95926424E8D00A93860 /* Assets.xcassets */,
 				53C8F95B26424E8D00A93860 /* LaunchScreen.storyboard */,
 				53C8F95E26424E8D00A93860 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				53C8F95526424E8C00A93860 /* ViewController.swift in Sources */,
 				53C8F95126424E8C00A93860 /* AppDelegate.swift in Sources */,
+				53C8F98426425F4500A93860 /* CTATableViewController.swift in Sources */,
 				53C8F95326424E8C00A93860 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
