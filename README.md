@@ -1,6 +1,6 @@
 # CTATrackerV3
 In this iOS project, we have developed an application that accesses web contents provided in JSON format from the official CTA
-website used to keep track of train/bus schedules via (https://www.transitchicago.com/developers/) and upload the most current train
+website used to keep track of train/bus schedules via (https://www.transitchicago.com/developers/) and uploads the most current train
 schedule for every CTA train in real time throughout the Chicagoland area. Users are also given the option to select which train
 they would like to keep track of via segmentControlIndex (i.e Red Line, Purple Line, Brown Line, etc.).
 
